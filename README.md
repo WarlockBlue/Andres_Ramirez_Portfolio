@@ -1,6 +1,6 @@
 # Andres Ramirez Portfolio:
 
-This is my portfolio for Data Science where I showcase new skills I have learned in my quest to become a Data Scientist.
+This is my portfolio where I showcase new skills I have learned in my quest to become a Data Scientist.
 
 ## [Project 1: Personal Credit Card Spending Analysis](https://github.com/WarlockBlue/Credit-Card-Spending-Analysis)
 
