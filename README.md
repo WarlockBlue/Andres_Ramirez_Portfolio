@@ -2,7 +2,7 @@
 
 This is my portfolio for Data Science where I showcase new skills I have learned in my quest to become a Data Scientist.
 
-[Project 1: Personal Credit Card Spending Analysis](https://github.com/WarlockBlue/Credit-Card-Spending-Analysis)
+##[Project 1: Personal Credit Card Spending Analysis](https://github.com/WarlockBlue/Credit-Card-Spending-Analysis)
 
 - Developed a script to review, extract, and clean the personal credit card spending history using Pandas.
 - Created a pivot table to summarize the maximum, average, and total spending per month per year from 2019 to 2021.
