@@ -21,8 +21,8 @@ In this project I:
 ![ ](https://github.com/WarlockBlue/Credit-Card-Spending-Analysis/blob/main/AverageCreditCardSpending.png)
 ![ ](https://github.com/WarlockBlue/Credit-Card-Spending-Analysis/blob/main/MaximumCreditCardSpending.png)
 ![ ](https://github.com/WarlockBlue/Credit-Card-Spending-Analysis/blob/main/TotalCreditCardSpending.png)
-![ ](Finances/TotalSpending2021.png)
-![ ](Finances/SpendingDistribution2021.png)
+![ ](https://github.com/WarlockBlue/Credit-Card-Spending-Analysis/blob/main/Finances/TotalSpending2021.png)
+![ ](https://github.com/WarlockBlue/Credit-Card-Spending-Analysis/blob/main/Finances/SpendingDistribution2021.png)
 
 ### Credit Card Pivot Table:
   ![Credit Card Pivot Table](https://github.com/WarlockBlue/Credit-Card-Spending-Analysis/blob/main/Finances/CreditCardPivotTable.png)
