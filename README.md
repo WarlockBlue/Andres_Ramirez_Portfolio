@@ -21,9 +21,19 @@ In this project I:
 ![ ](https://github.com/WarlockBlue/Credit-Card-Spending-Analysis/blob/main/AverageCreditCardSpending.png)
 ![ ](https://github.com/WarlockBlue/Credit-Card-Spending-Analysis/blob/main/MaximumCreditCardSpending.png)
 ![ ](https://github.com/WarlockBlue/Credit-Card-Spending-Analysis/blob/main/TotalCreditCardSpending.png)
-![ ](https://github.com/WarlockBlue/Credit-Card-Spending-Analysis/blob/main/Finances/TotalSpending2021.png)
-![ ](https://github.com/WarlockBlue/Credit-Card-Spending-Analysis/blob/main/Finances/SpendingDistribution2021.png)
+![ ](Finances/TotalSpending2021.png)
+![ ](Finances/SpendingDistribution2021.png)
 
 ### Credit Card Pivot Table:
   ![Credit Card Pivot Table](https://github.com/WarlockBlue/Credit-Card-Spending-Analysis/blob/main/Finances/CreditCardPivotTable.png)
 
+## [Project 2: Hotel Revenue EDA Using Azure Data Studio SQL](https://github.com/WarlockBlue/HotelRevenue)
+
+This project deals with Hotel data for the City Hotels and Resort Hotels.
+
+Questions that were solved in this project: 
+  - Is there an increase in revenue from 2018 to 2020?
+  - What is the revenue produced per year per month for both Hotels?
+  - What is the month of highest revenue for each year?
+  - Cancelations are important to keep track of. How many bookings were canceled each year? What is the percentage of bookings that were canceled each year?
+  - How many people requested special acommodations?
